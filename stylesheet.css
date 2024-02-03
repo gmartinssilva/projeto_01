@@ -1,5 +1,11 @@
-#hero {
+body {
+  font-family: "Open Sans", "sans-serif";
   text-align: center;
+}
+
+#hero {
+  width: 592px;
+  margin: auto;
 }
 
 h1 {
@@ -20,10 +26,6 @@ a {
 
 p {
   color: #7d7987;
-}
-
-body {
-  font-family: "Open Sans", "sans-serif";
 }
 
 footer {
