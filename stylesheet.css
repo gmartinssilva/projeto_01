@@ -37,8 +37,7 @@ p, footer {
 }
 
 footer {
-  text-align: center;
-  margin-top: 80px;
+  margin-bottom: 33px;
 }
 
 footer a + a {
@@ -53,7 +52,7 @@ footer .line {
 }
 
 #baseboard-image {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   right: 0;
 }
