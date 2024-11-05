@@ -14,10 +14,10 @@ Para utilizar o projeto
 não é necessário realizar a instalação de nenhuma biblioteca adicional, basta um navegador.
 
 ## Layout mobile
-Em breve
+![Layout Mobile](./assets/layout-mobile.gif)
 
 ## Layout web
-Em breve
+![Layout Web](./assets/layout-web.png)
 
 # Tecnologias utilizadas
 - HTML
